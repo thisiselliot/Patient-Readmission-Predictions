@@ -142,3 +142,6 @@ cython_debug/
 
 # Data folder
 Data/
+
+# Presentation powerpoint deck
+Predictions Presentation.pptx
